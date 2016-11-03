@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/antlr4-runtime-4.5.1-1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/asm-5.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/asm-commons-5.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.5-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.5-tests.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/icu4j-56.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-common-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-icu-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-kuromoji-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-morfologik-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-classification-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-codecs-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-core-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-demo-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-expressions-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-facet-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-grouping-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-highlighter-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-join-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-memory-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-misc-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-queries-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-queryparser-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-replicator-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-sandbox-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-spatial-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-spatial-extras-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-spatial3d-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-suggest-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-test-framework-6.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/morfologik-fsa-2.1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/morfologik-polish-2.1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/morfologik-stemming-2.1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/randomizedtesting-runner-2.3.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spatial4j-0.6-tests.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spatial4j-0.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
